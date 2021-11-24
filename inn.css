@@ -1,0 +1,84 @@
+body{
+    background-color: whitesmoke; 
+}
+.main{
+    width: 1700px;
+}
+.bf{
+    height: 100px;
+    width: 1500px;
+    background-color: gray;
+    border: 5px solid black;
+    font-size: 25px;
+}
+.first{
+    width: 1700px;
+    height: 100%;
+    position: relative;
+    left: 30%;
+}
+.bm{
+    position: relative;
+    left: 1250px;     
+    display: inline-block;
+    margin-right: 15px;
+    top: 9px;
+}
+.my{
+    position: relative;
+    top: 36px;
+    margin-left: 15px;
+}
+.second{
+    position: relative;
+    left: 30%;
+    display: inline-block;
+}
+.bb{
+    height: 100px;
+    width: 450px;
+    background-color: gray;
+    border: 5px solid black;
+    font-size: 25px;
+    position: relative;
+    top: 100px;
+    left: 35px;
+}
+.te{
+    position: relative;
+    left: 31%;
+    font-size: 170%;
+    top: 20px;
+}
+.tee{
+    position: relative;
+    left: 31%;
+    font-size: 170%;
+    top: 40px;
+}
+.teee{
+    position: relative;
+    left: 31%;
+    font-size: 170%;
+    top: 60px;
+}
+.card{
+    height: 140px;
+    width: 450px;
+    background-color: white;
+    border: 5px solid black;
+    font-size: 25px;
+    position: relative;
+    top: 95px;
+    left: 35px;
+}
+.text{
+    position: relative;
+    top: 33px;
+    left: 15px;
+}
+.textt{
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
